@@ -1,0 +1,130 @@
+[
+  {
+    "id": "9da41608-0b98-478c-950c-c3e1a6fe060e",
+    "title": "Vibrant Floral Midi Dress for Effortless Style",
+    "timestamp": "2025-03-10T14:03:25.887262",
+    "modelImagePath": null,
+    "clothingImagePath": null,
+    "outputImagePath": "/Users/siddy/Desktop/retail-asset-creation/fastapi_backend/storage/images/23f6aec26d3493dcf281129af653bb72.png",
+    "modelImageUrl": "",
+    "clothingImageUrl": "",
+    "outputImageUrl": "https://cdn.fashn.ai/91dd717e-6561-403e-a164-2985789bb2d6/output_0.png",
+    "metadata": {
+      "clothingType": "tops",
+      "gender": "female",
+      "provider": "fashn"
+    }
+  },
+  {
+    "id": "66e585d9-3420-4021-a60e-b8f53454ebf4",
+    "title": "Vibrant Floral Maxi Dress for Effortless Elegance",
+    "timestamp": "2025-03-10T14:03:31.870596",
+    "modelImagePath": null,
+    "clothingImagePath": null,
+    "outputImagePath": "/Users/siddy/Desktop/retail-asset-creation/fastapi_backend/storage/images/e840f54d21050e4c442aec33ea437e4c.png",
+    "modelImageUrl": "",
+    "clothingImageUrl": "",
+    "outputImageUrl": "https://cdn.fashn.ai/91dd717e-6561-403e-a164-2985789bb2d6/output_1.png",
+    "metadata": {
+      "clothingType": "tops",
+      "gender": "female",
+      "provider": "fashn"
+    }
+  },
+  {
+    "id": "e39a426b-1b5f-4451-ab78-871df1f16d9f",
+    "title": "Vibrant Floral Dress for Effortless Summer Style",
+    "timestamp": "2025-03-10T14:03:36.084892",
+    "modelImagePath": null,
+    "clothingImagePath": null,
+    "outputImagePath": "/Users/siddy/Desktop/retail-asset-creation/fastapi_backend/storage/images/62ad47eef0e6693707e951c6ac676f53.png",
+    "modelImageUrl": "",
+    "clothingImageUrl": "",
+    "outputImageUrl": "https://cdn.fashn.ai/91dd717e-6561-403e-a164-2985789bb2d6/output_2.png",
+    "metadata": {
+      "clothingType": "tops",
+      "gender": "female",
+      "provider": "fashn"
+    }
+  },
+  {
+    "id": "ea6f9b1d-0d28-4c54-ac78-1882d56c885d",
+    "title": "Vibrant Floral Midi Dress for Effortless Elegance",
+    "timestamp": "2025-03-10T14:03:40.125866",
+    "modelImagePath": null,
+    "clothingImagePath": null,
+    "outputImagePath": "/Users/siddy/Desktop/retail-asset-creation/fastapi_backend/storage/images/7e617d2366649196abfbdd838be4d422.png",
+    "modelImageUrl": "",
+    "clothingImageUrl": "",
+    "outputImageUrl": "https://cdn.fashn.ai/91dd717e-6561-403e-a164-2985789bb2d6/output_3.png",
+    "metadata": {
+      "clothingType": "tops",
+      "gender": "female",
+      "provider": "fashn"
+    }
+  },
+  {
+    "id": "66d0e539-f10c-4f78-9d3e-69cfca7137d5",
+    "title": "Vibrant Floral Embroidered Dress for Boho Chic Vibes",
+    "timestamp": "2025-03-12T21:26:14.421472",
+    "modelImagePath": null,
+    "clothingImagePath": null,
+    "outputImagePath": "/Users/siddy/Desktop/retail-asset-creation/fastapi_backend/storage/images/91172b71a1951ce732d54db2a4e3e95c.png",
+    "modelImageUrl": "",
+    "clothingImageUrl": "",
+    "outputImageUrl": "https://cdn.fashn.ai/3f70d0ae-654a-4c11-9405-fd35c5830347/output_0.png",
+    "metadata": {
+      "clothingType": "tops",
+      "gender": "female",
+      "provider": "fashn"
+    }
+  },
+  {
+    "id": "7b048b82-7266-4d6e-98c3-83223bf3f746",
+    "title": "Vibrant Floral Embroidered Summer Dress",
+    "timestamp": "2025-03-12T21:26:18.343152",
+    "modelImagePath": null,
+    "clothingImagePath": null,
+    "outputImagePath": "/Users/siddy/Desktop/retail-asset-creation/fastapi_backend/storage/images/2e2c1a747c645678e83910a1569342e7.png",
+    "modelImageUrl": "",
+    "clothingImageUrl": "",
+    "outputImageUrl": "https://cdn.fashn.ai/3f70d0ae-654a-4c11-9405-fd35c5830347/output_1.png",
+    "metadata": {
+      "clothingType": "tops",
+      "gender": "female",
+      "provider": "fashn"
+    }
+  },
+  {
+    "id": "29e0f30f-638c-423a-86e1-a09f409194c0",
+    "title": "Vibrant Floral Embroidered Dress for Summer Days",
+    "timestamp": "2025-03-12T21:26:23.311190",
+    "modelImagePath": null,
+    "clothingImagePath": null,
+    "outputImagePath": "/Users/siddy/Desktop/retail-asset-creation/fastapi_backend/storage/images/59ebc5b613d646ad580a3718b52ca1b5.png",
+    "modelImageUrl": "",
+    "clothingImageUrl": "",
+    "outputImageUrl": "https://cdn.fashn.ai/3f70d0ae-654a-4c11-9405-fd35c5830347/output_2.png",
+    "metadata": {
+      "clothingType": "tops",
+      "gender": "female",
+      "provider": "fashn"
+    }
+  },
+  {
+    "id": "fa3e4187-ecee-4b1c-9069-33a909174f89",
+    "title": "Vibrant Floral Embroidered Beach Dress",
+    "timestamp": "2025-03-12T21:26:27.231904",
+    "modelImagePath": null,
+    "clothingImagePath": null,
+    "outputImagePath": "/Users/siddy/Desktop/retail-asset-creation/fastapi_backend/storage/images/afe7ed99196b265630fc5d6730e43437.png",
+    "modelImageUrl": "",
+    "clothingImageUrl": "",
+    "outputImageUrl": "https://cdn.fashn.ai/3f70d0ae-654a-4c11-9405-fd35c5830347/output_3.png",
+    "metadata": {
+      "clothingType": "tops",
+      "gender": "female",
+      "provider": "fashn"
+    }
+  }
+]

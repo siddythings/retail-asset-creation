@@ -1,0 +1,47 @@
+{
+  "generationId": "257e08ab-073a-4231-9a25-c85970346c25",
+  "requestData": {
+    "prompt": "women",
+    "attributes": {
+      "gender": "female",
+      "bodySize": "average",
+      "ethnicity": null,
+      "age": null
+    },
+    "numImages": 4,
+    "width": 1024,
+    "height": 1024,
+    "modelId": "b2614463-296c-462a-9586-aafdb8f00e36",
+    "alchemy": true,
+    "ultra": false,
+    "styleUUID": "556c1ee5-ec38-42e8-955a-1e82dad0ffa1",
+    "contrast": 3.5,
+    "enhancePrompt": false
+  },
+  "prompt": "a realistic photograph of a woman, an average-sized woman, women, photorealistic, highly detailed, professional photography, 8k",
+  "timestamp": 1741348817.210491,
+  "results": [
+    {
+      "url": "https://cdn.leonardo.ai/users/8e52ec33-c283-4ead-a7a6-f58d014111c0/generations/257e08ab-073a-4231-9a25-c85970346c25/segments/4:4:1/Flux_Dev_a_realistic_photograph_of_a_woman_an_averagesized_wom_3.jpeg",
+      "nsfw": true,
+      "id": "5504bfa0-26e1-460c-81a0-36e22f008a4d"
+    },
+    {
+      "url": "https://cdn.leonardo.ai/users/8e52ec33-c283-4ead-a7a6-f58d014111c0/generations/257e08ab-073a-4231-9a25-c85970346c25/segments/3:4:1/Flux_Dev_a_realistic_photograph_of_a_woman_an_averagesized_wom_2.jpeg",
+      "nsfw": true,
+      "id": "1db38abf-6c6f-43e5-9030-8890cde12928"
+    },
+    {
+      "url": "https://cdn.leonardo.ai/users/8e52ec33-c283-4ead-a7a6-f58d014111c0/generations/257e08ab-073a-4231-9a25-c85970346c25/segments/1:4:1/Flux_Dev_a_realistic_photograph_of_a_woman_an_averagesized_wom_0.jpeg",
+      "nsfw": true,
+      "id": "8dde6e07-01a9-490e-99df-63d3870b687d"
+    },
+    {
+      "url": "https://cdn.leonardo.ai/users/8e52ec33-c283-4ead-a7a6-f58d014111c0/generations/257e08ab-073a-4231-9a25-c85970346c25/segments/2:4:1/Flux_Dev_a_realistic_photograph_of_a_woman_an_averagesized_wom_1.jpeg",
+      "nsfw": true,
+      "id": "4f7fdc55-8a2e-47ca-be5f-71049dc164ba"
+    }
+  ],
+  "completed": true,
+  "completedTimestamp": 1741348824.9939358
+}

@@ -1,0 +1,227 @@
+{
+  "category": "General Garments",
+  "images": [
+    {
+      "id": "image-7",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_Halloween_victorian_dress.webp",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_Halloween_victorian_dress.webp",
+      "alt": "FullBody_Woman_Halloween_victorian_dress"
+    },
+    {
+      "id": "image-11",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Woman_Tshirt_1.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Woman_Tshirt_1.png",
+      "alt": "Top_Man_Woman_Tshirt_1"
+    },
+    {
+      "id": "image-12",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Woman_Tshirt_2.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Woman_Tshirt_2.png",
+      "alt": "Top_Man_Woman_Tshirt_2"
+    },
+    {
+      "id": "image-13",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Woman_knitted_cardigan.webp",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Woman_knitted_cardigan.webp",
+      "alt": "Top_Man_Woman_knitted_cardigan"
+    },
+    {
+      "id": "image-14",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Woman_leather_jacket.webp",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Woman_leather_jacket.webp",
+      "alt": "Top_Man_Woman_leather_jacket"
+    },
+    {
+      "id": "image-15",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Woman_navy_cardigan.webp",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Woman_navy_cardigan.webp",
+      "alt": "Top_Man_Woman_navy_cardigan"
+    },
+    {
+      "id": "image-16",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Woman_navy_puff_coat.webp",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Woman_navy_puff_coat.webp",
+      "alt": "Top_Man_Woman_navy_puff_coat"
+    },
+    {
+      "id": "image-17",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Woman_white_sweater.webp",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Woman_white_sweater.webp",
+      "alt": "Top_Man_Woman_white_sweater"
+    },
+    {
+      "id": "image-18",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Woman_Shirt.png.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Woman_Shirt.png.png",
+      "alt": "Top_Woman_Shirt"
+    },
+    {
+      "id": "image-19",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Woman_Shirt_1.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Woman_Shirt_1.png",
+      "alt": "Top_Woman_Shirt_1"
+    },
+    {
+      "id": "image-20",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Woman_red_blouse.webp",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Woman_red_blouse.webp",
+      "alt": "Top_Woman_red_blouse"
+    },
+    {
+      "id": "image-21",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Woman_white_dress_tank.webp",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Woman_white_dress_tank.webp",
+      "alt": "Top_Woman_white_dress_tank"
+    },
+    {
+      "id": "image-22",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_Dress_1.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_Dress_1.png",
+      "alt": "FullBody_Woman_Dress_1"
+    },
+    {
+      "id": "image-23",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_Dress_2.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_Dress_2.png",
+      "alt": "FullBody_Woman_Dress_2"
+    },
+    {
+      "id": "image-24",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_Dress_3.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_Dress_3.png",
+      "alt": "FullBody_Woman_Dress_3"
+    },
+    {
+      "id": "image-25",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_Dress_4.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_Dress_4.png",
+      "alt": "FullBody_Woman_Dress_4"
+    },
+    {
+      "id": "image-27",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_Pajama_Back_1.jpg",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_Pajama_Back_1.jpg",
+      "alt": "FullBody_Woman_Pajama_Back_1"
+    },
+    {
+      "id": "image-28",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_long_coat_back.webp",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_long_coat_back.webp",
+      "alt": "FullBody_Woman_long_coat_back"
+    },
+    {
+      "id": "image-29",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_long_coat_front.webp",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_long_coat_front.webp",
+      "alt": "FullBody_Woman_long_coat_front"
+    },
+    {
+      "id": "image-30",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_navy_dress.webp",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_navy_dress.webp",
+      "alt": "FullBody_Woman_navy_dress"
+    },
+    {
+      "id": "image-31",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_set_1.webp",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Woman_set_1.webp",
+      "alt": "FullBody_Woman_set_1"
+    },
+    {
+      "id": "image-32",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Man_Woman_white_suit_set.webp",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Man_Woman_white_suit_set.webp",
+      "alt": "FullBody_Man_Woman_white_suit_set"
+    },
+    {
+      "id": "image-33",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Bottom_Woman_Dress_1.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Bottom_Woman_Dress_1.png",
+      "alt": "Bottom_Woman_Dress_1"
+    },
+    {
+      "id": "image-34",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Bottom_Woman_Pants_1.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Bottom_Woman_Pants_1.png",
+      "alt": "Bottom_Woman_Pants_1"
+    },
+    {
+      "id": "image-35",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Bottom_Woman_Pants_2.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Bottom_Woman_Pants_2.png",
+      "alt": "Bottom_Woman_Pants_2"
+    },
+    {
+      "id": "image-36",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Bottom_Woman_Pants_3.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Bottom_Woman_Pants_3.png",
+      "alt": "Bottom_Woman_Pants_3"
+    },
+    {
+      "id": "image-37",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Bottom_Woman_Short_1.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Bottom_Woman_Short_1.png",
+      "alt": "Bottom_Woman_Short_1"
+    },
+    {
+      "id": "image-38",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Bottom_Woman_Skirt_1.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Bottom_Woman_Skirt_1.png",
+      "alt": "Bottom_Woman_Skirt_1"
+    },
+    {
+      "id": "image-39",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Bottom_Woman_Skirt_2.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Bottom_Woman_Skirt_2.png",
+      "alt": "Bottom_Woman_Skirt_2"
+    },
+    {
+      "id": "image-40",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Jacket_1.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Jacket_1.png",
+      "alt": "Top_Man_Jacket_1"
+    },
+    {
+      "id": "image-41",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Polo_Back_1.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Polo_Back_1.png",
+      "alt": "Top_Man_Polo_Back_1"
+    },
+    {
+      "id": "image-42",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Polo_Back_2.jpg",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Polo_Back_2.jpg",
+      "alt": "Top_Man_Polo_Back_2"
+    },
+    {
+      "id": "image-43",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Shirt_1.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Top_Man_Shirt_1.png",
+      "alt": "Top_Man_Shirt_1"
+    },
+    {
+      "id": "image-44",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Coat_Man_1.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Coat_Man_1.png",
+      "alt": "FullBody_Coat_Man_1"
+    },
+    {
+      "id": "image-45",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Man_set_1.webp",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_Man_set_1.webp",
+      "alt": "FullBody_Man_set_1"
+    },
+    {
+      "id": "image-46",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_man_long_coat_front.webp",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/FullBody_man_long_coat_front.webp",
+      "alt": "FullBody_man_long_coat_front"
+    },
+    {
+      "id": "image-47",
+      "url": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Bottom_Man_Short_1.png",
+      "thumbnailUrl": "https://huhu-web-statics.s3.us-west-2.amazonaws.com/tryon-garments/Bottom_Man_Short_1.png",
+      "alt": "Bottom_Man_Short_1"
+    }
+  ]
+}
